@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "name": "Göksel",
+      "username": "goksel",
+      "password": "1234",
+      "isAdmin": true
+    },
+    {
+      "name": "Deneme",
+      "username": "deneme",
+      "password": "1111",
+      "isAdmin": true
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Wrong Chest",
+      "group": "Sandıklar",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Deceit Chest",
+      "group": "Sandıklar",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Shame Chest",
+      "group": "Sandıklar",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Despise Chest",
+      "group": "Sandıklar",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Destard",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Deceit",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Shame",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Fire",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Hythloth",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Terathan",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Despise",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Wrong",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Ice Dungeon",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Covetous",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Golem 1",
+      "group": "Golem",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Golem 2",
+      "group": "Golem",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Golem 3",
+      "group": "Golem",
+      "lastTime": null,
+      "killedBy": null
+    }
+  ],
+  "deletedNames": [],
+  "questWeekStart": "2026-05-12",
+  "quests": [
+    {
+      "city": "Britain",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Moonglow",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Trinsic",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Vesper",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Yew",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Jhelom",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Minoc",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Skara",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Occlo",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    },
+    {
+      "city": "Bucs",
+      "startedBy": null,
+      "startedAt": null,
+      "result": "",
+      "resultBy": null
+    }
+  ]
+}

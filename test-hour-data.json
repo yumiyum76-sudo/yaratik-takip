@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "name": "Göksel",
+      "username": "goksel",
+      "password": "1234"
+    }
+  ],
+  "creatures": [
+    {
+      "name": "Wrong Chest",
+      "group": "Sandıklar",
+      "lastTime": "2026-05-13T15:00:00.000Z",
+      "killedBy": "Göksel"
+    },
+    {
+      "name": "Deceit Chest",
+      "group": "Sandıklar",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Shame Chest",
+      "group": "Sandıklar",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Despise Chest",
+      "group": "Sandıklar",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Destard",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Deceit",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Shame",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Fire",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Hythloth",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Terathan",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Despise",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Wrong",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Ice Dungeon",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Covetous",
+      "group": "Dungeon",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Golem 1",
+      "group": "Golem",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Golem 2",
+      "group": "Golem",
+      "lastTime": null,
+      "killedBy": null
+    },
+    {
+      "name": "Golem 3",
+      "group": "Golem",
+      "lastTime": null,
+      "killedBy": null
+    }
+  ],
+  "deletedNames": []
+}
